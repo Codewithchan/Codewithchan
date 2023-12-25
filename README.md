@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandru</h1>
 <h3 align="center">A passionate Self-taught Front-end Developer, I build modern-day UI components to improve application performance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevvikramchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="webdevvikramchoudhary" /> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
   
 - 💬 Ask me about **Next.js, React.js, JavaScript**
